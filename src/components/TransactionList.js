@@ -1,5 +1,5 @@
-import React from 'react'
-import { GlobalContext } from '../context/GlobalState'
+import React from 'react';
+import { GlobalContext } from '../context/GlobalState';
 
 export const TransactionList = () => {
     return (
