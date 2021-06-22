@@ -1,3 +1,8 @@
+Expense tracker built with ReactJS, Hooks, and Context API.
+
+![image](https://user-images.githubusercontent.com/42185328/122928385-7d7cde80-d372-11eb-8060-11bc6739b788.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
